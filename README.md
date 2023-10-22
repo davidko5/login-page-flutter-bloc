@@ -1,10 +1,8 @@
 # login_bloc
 
-A new Flutter project.
+Application that includes log-in screen/page. Created using flutter framework and bloc pattern.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
